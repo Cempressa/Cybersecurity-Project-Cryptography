@@ -1,1 +1,11 @@
 
+# Bibliotecas necessárias para a execução dos scripts de simulação (Python)
+
+# Módulo Ransomware Simulado: Criptografia (Fernet)
+cryptography
+
+# Módulo Keylogger Simulado: Captura de Teclado
+pynput
+
+# Módulo Keylogger Simulado: Envio de E-mails (Exfiltração)
+# smtplib é um módulo nativo do Python, mas a inclusão é opcional
